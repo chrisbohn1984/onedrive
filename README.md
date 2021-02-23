@@ -59,3 +59,8 @@ See [docs/national-cloud-deployments.md](https://github.com/abraunegg/onedrive/b
 
 ### Docker support
 See [docs/Docker.md](https://github.com/abraunegg/onedrive/blob/master/docs/Docker.md)
+<a href='https://github.com/marketplace/actions/quote-readme'>
+<!--STARTS_HERE_QUOTE_README-->
+Don't get too busy to live life, it's over before you know it...
+<!--ENDS_HERE_QUOTE_README-->
+</a>
